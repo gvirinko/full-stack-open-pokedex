@@ -1,3 +1,6 @@
+# UPD My second repo with CI/CD:
+[Dashboard For Errors](https://github.com/gvirinko/dashboard_for_errors)
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
